@@ -9,3 +9,6 @@
 *.dmp
 *.swp
 .tags
+src/lua51.pdb
+src/luajit.pdb
+src/vc140.pdb
